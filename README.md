@@ -2,6 +2,7 @@
 This project presents an interactive Excel dashboard developed to analyze supermarket sales performance. The dashboard provides insights into sales trends, product category performance, customer purchasing behavior, and revenue generation.
 
 
+
 Tools Used: Microsoft Excel, Pivot Tables, Pivot Charts, Dashboard Design.
 
 
