@@ -6,6 +6,7 @@ This project presents an interactive Excel dashboard developed to analyze superm
 Tools Used: Microsoft Excel, Pivot Tables, Pivot Charts, Dashboard Design.
 
 
+
 Key Features: Monthly Sales Analysis, Category-wise Revenue Breakdown, Location-wise Performance Analysis, KPI Tracking, Interactive Dashboard Visualizations.
 
 
