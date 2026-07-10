@@ -10,4 +10,5 @@ Tools Used: Microsoft Excel, Pivot Tables, Pivot Charts, Dashboard Design.
 Key Features: Monthly Sales Analysis, Category-wise Revenue Breakdown, Location-wise Performance Analysis, KPI Tracking, Interactive Dashboard Visualizations.
 
 
+
 Business Insights: Identified top-performing product categories, Compared regional sales performance, Analyzed monthly revenue trends, Supported data-driven decision-making through visual reporting.
